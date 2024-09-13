@@ -1,24 +1,13 @@
-# Web Dev Starter Code
+# 4.2 Lab
 
 ## Overview
 
-TODO: Write a project description
+In this project we implemented CSS and formatted HTML to make a fake website. The website was a birdwatching website that needed to include a banner with logo, navigation bar, welcome information, pictures that link to bigger versions of those pictures, and a end bar for copyright credits.
+
+## Compilation and Viewing
+Clone over this repository into VSCode or an IDE of your choosing that supports live preview. Start te live preview session to view and interact with the website. You may need to open this page in a browser to interact with some elements.
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
-
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link
+- Professor Shane Panter

@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Roboto Condensed', sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+    background-color: #c5dfff;
+  }
+
+  .wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .header {
+    background-color: #fef3da;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #fef3da;
+  }
+  
+  .header-title-logo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .header-title-logo h1 {
+    font-family: 'Cinzel Decorative', serif;
+    font-size: 2.5rem;
+  }
+  
+  .header-title-logo img {
+    height: 50px;
+  }
+  
+  .navigation ul {
+    list-style: none;
+    padding-top: 10px;
+  }
+  
+  .navigation li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  .navigation a, .navigation span {
+    text-decoration: none;
+    color: #693e0a;
+    font-weight: bold;
+  }
+  
+  .main {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .welcome-text {
+    width: 65%;
+  }
+
+  .image-sidebar {
+    width: 30%;
+    background-color: #fef3da;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .image-sidebar h2 {
+    margin-bottom: 10px;
+  }
+  
+  .image-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 2fr); 
+    gap: 10px;
+  }
+  
+  .image-grid img {
+    width: 100%;
+    display: block;
+    border-radius: 5px;
+  }
+  
+  .footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #c4d7f2;
+    margin-top: 20px;
+    border-top: 2px solid #e0e4cc;
+  }
+  
